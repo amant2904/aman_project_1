@@ -4,3 +4,7 @@ Here we have all the groceries products we needed
 
 1. sugar
 2. salt
+
+
+
+3. spices
